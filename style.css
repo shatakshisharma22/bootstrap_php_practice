@@ -1,0 +1,145 @@
+.navbar-brand{
+	font-size: 35px;
+}
+.navbar1{
+	background-color: beige !important;
+	border-radius: 0px !important;
+	margin-bottom: 0px;
+}
+.navbar2{
+	color: #fa7d09;
+}
+.bbody{
+	height: auto;
+	background:url("https://c4.wallpaperflare.com/wallpaper/748/631/716/puppy-cute-dog-dachshund-wallpaper-preview.jpg") no-repeat;
+	background-size: cover;
+}
+.nonusa-div{
+	display: flex;
+	background-color: darkblue;
+	color: white;
+	width: 150px;
+	float: right;
+	padding-right: 12px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.cart-img{
+	width: 25px;
+	height: 25px;
+	margin: 12px 20px;
+}
+.p1{
+	margin: 10px auto;
+	font-size: 18px;
+}
+.p2{
+	color: white;
+	font-size: 20px;
+}
+.cardproduct{
+	background-color: white;
+	border-radius: 25px !important;
+}
+/*
+.left_div{
+	border-radius: 20px !important;
+}
+hr{
+	width: 33.33%;
+	background-color: green;
+	height: 2px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.btn1{
+	border-radius: 20px;
+	background-color: navy;
+	color: white;
+	border:0px;
+	margin-left: 80px;
+	width: 150px;
+	height: 40px;
+}
+.outerdiv{
+	height: 350px;
+	display: grid;
+	background-color: white;
+	border-radius: 25px;
+	padding: 0px;
+	margin: auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+h5{
+	text-align: center;
+	margin-top: 0px;
+	padding: 5px 0px;
+	color: white;
+}*/
+.bluediv{
+	background-color: #00bcd4;
+	border-top-right-radius: 25px;
+	border-top-left-radius: 25px;
+}/*
+.img3{
+	height: 150px;
+	width: 100px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	margin-left:65px; 
+}*/
+.btn2 , .btn3{
+	border:0px;
+	border-radius: 20px;
+	background-color: #bbd196;
+	color: white;
+	margin: 0 auto;
+	width: 100px;
+	margin-left: 10px;
+}/*
+.btn3{
+	border: 0px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background-color: #1f4068;
+	color: white;
+	width: 100px;
+	margin-left:65px;
+}
+.contact{
+	text-align: left;
+}
+@media screen and (max-width: 798px)
+{
+	.ddhead{
+		text-align: center !important;
+	}
+	.contact{
+		text-align: center;
+	}
+	.outerdiv{
+		width: 250px;
+	}
+	.left_div{
+		width: 250px;
+	}
+	.btn1{
+		margin-left: 30px;
+		width: 150px;
+		height: 40px;
+	}
+	.img3 , .btn2 , .btn3{
+		margin-left: 75px;
+	}
+}
+@media screen and (width: 1024px)
+{
+	.btn1{
+		margin-left: 50px;
+	}
+	.btn2 , .btn3 , .img3{
+		margin-left: 43px;
+	}
+}*/
